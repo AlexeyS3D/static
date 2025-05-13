@@ -4,8 +4,11 @@ share: "true"
 # Тестовая заметка  
   
 ## Заголовок 2.1  
+[page1](page1.md)  
   
 ### Заголовок 3  
+[page3](InnerFolder/page3.md)  
 ## Заголовок 2.2  
   
+[page2](page2.md)  
 Текст
